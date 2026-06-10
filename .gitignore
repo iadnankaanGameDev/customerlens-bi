@@ -36,3 +36,4 @@ project_structure.txt
 app/data/uploads/
 data/raw/
 data/private/
+app/data/test_datasets/online_retail_II.csv
